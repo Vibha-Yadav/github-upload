@@ -1,0 +1,123 @@
+<html>
+<head><title>Covid-19</title>
+<style>
+/*Adding header*/
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #4863A0;
+  color: white;
+  font-size: 15px;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/*Adding footer*/
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #4863A0;
+  color: white;
+  text-align: center;
+}
+</style>
+</head>
+<body bgcolor=#D1D0CE>
+
+<div class="header">
+  <h1>INDIA FIGHTS BACK-COVID19</h1>
+</div>
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="links.html">Links</a>
+  <a href="https://www.youtube.com/playlist?list=PLvrp9iOILTQaJa78zFQ0QgvShQ2HEwHxP">Videos</a>
+  <a href="https://mygov.in/covid-19/">Statistics</a>
+   <a href="https://www.mha.gov.in/notifications/circulars-covid-19">Circulars By Government</a>
+  <a href="https://www.who.int/news-room/q-a-detail/q-a-coronaviruses">FAQ</a>
+  <a href="query.html">Query Form</a>
+</div>
+
+<font color="green"> 
+<h2><center>COVID-19</center></h2>
+</font>
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.
+Most people who fall sick with COVID-19 will experience mild to moderate symptoms and recover without special treatment.
+<font color="green"> 
+<h3>SYMPTOMS</h3>
+</font>
+<p>
+<img src="C:\Users\balaji\Desktop\images.jpg"  hspace=300px  height=250px width=250px align="right">
+Common symptoms:
+<ul>
+<li>fever.
+<li>tiredness.
+<li>dry cough.
+</ul>
+Some people may experience:
+<ul>
+<li>aches and pains.
+<li>nasal congestion.
+<li>runny nose.
+<li>sore throat.
+<li>diarrhoea.
+</ul>
+On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.
+People with mild symptoms who are otherwise healthy should self-isolate. Seek medical attention if you have a fever, a cough, and difficulty breathing.
+</p>
+<img src="C:\Users\balaji\Desktop\prevention.jpg"  hspace=100px  height=400px width=400px align="right">
+<font color="green"> 
+<h3>PREVENTIONS</h3>
+</font>
+<p>
+<img
+To prevent the spread of COVID-19:
+<ul>
+<li>Clean your hands often. 
+<li>Use soap and water, or an alcohol-based hand rub.
+<li>Maintain a safe distance from anyone who is coughing or sneezing.
+<li>Don’t touch your eyes, nose or mouth.
+<li>Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.
+<li>Stay home if you feel unwell.
+<li>If you have a fever, a cough, and difficulty breathing, seek medical attention.
+<li>Follow the directions of your local health authority.
+</ul>
+</p>
+<font color="green"> 
+<h3>STAY HOME, STAY SAFE</h3>
+</font>
+
+<div class="footer">
+  <p>Created by: Vibha Yadav</p>
+</div>
+
+</body>
+</html>
